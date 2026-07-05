@@ -2,3 +2,4 @@ epoch,ts,temperature_c,temperature_f,humidity_pct,pressure_station_mbar,pressure
 1783253383,2026-07-05T13:09:43+0100,24.38,75.88,58.86,1015.05,1020.89,15.8,24.4,error: HTTPError: HTTP Error 401: Unauthorized
 1783253674,2026-07-05T13:14:34+0100,24.39,75.9,58.99,1015.04,1020.88,15.9,24.4,error: HTTPError: HTTP Error 401: Unauthorized
 1783253724,2026-07-05T13:15:24+0100,24.44,75.99,58.89,1015.09,1020.93,15.9,24.4,error: HTTPError: HTTP Error 401: Unauthorized
+1783253861,2026-07-05T13:17:41+0100,24.55,76.19,58.78,1015.01,1020.84,16.0,24.6,success (try 2)
