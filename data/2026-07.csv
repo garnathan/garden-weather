@@ -1,2 +1,3 @@
 epoch,ts,temperature_c,temperature_f,humidity_pct,pressure_station_mbar,pressure_sealevel_mbar,dew_point_c,heat_index_c,wu_status
 1783587721,2026-07-09T10:02:01+0100,23.7,74.66,57.07,1010.08,1015.9,14.7,23.7,success
+1783587943,2026-07-09T10:05:43+0100,24.15,75.47,56.08,1009.99,1015.8,14.8,24.1,success
